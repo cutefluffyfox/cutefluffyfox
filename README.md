@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Silly fox](./fox-jumping.gif)
+<img src="./fox-jumping.gif" height="200" />
 
 <!--
 **cutefluffyfox/cutefluffyfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
